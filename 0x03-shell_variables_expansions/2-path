@@ -1,0 +1,2 @@
+#!/bin/bash
+PATJ=$PATH:/action
